@@ -1,0 +1,11 @@
+H:\Prac6\Prac6\Prac6\bin\Debug\Prac6.exe.config
+H:\Prac6\Prac6\Prac6\bin\Debug\Prac6.exe
+H:\Prac6\Prac6\Prac6\bin\Debug\Prac6.pdb
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.csproj.AssemblyReference.cache
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.Form1.resources
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.Properties.Resources.resources
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.csproj.GenerateResource.cache
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.csproj.CoreCompileInputs.cache
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.exe
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.pdb
+H:\Prac6\Prac6\Prac6\obj\Debug\Prac6.exe.config
